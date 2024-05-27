@@ -53,25 +53,31 @@ Exploratory Data Analysis (EDA)
 
 <img width="587" alt="Exploratory Data Analysis (EDA)" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/efbee7b9-4643-4a65-b3dc-25b8f41f9f87">
 
-Exploratory Data Analysis (EDA)
-
-<img width="586" alt="EDA2" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/3d008591-e7fa-4ab3-a5da-7a60735c59fc">
 
 Exploratory Data Analysis (EDA)
 
 <img width="586" alt="EDA2" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/3d008591-e7fa-4ab3-a5da-7a60735c59fc">
+
+
+Exploratory Data Analysis (EDA)
+
+<img width="586" alt="EDA2" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/3d008591-e7fa-4ab3-a5da-7a60735c59fc">
+
 
 Exploratory Data Analysis (EDA)
 
 <img width="607" alt="EDA4" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/376d6574-0e06-40d8-82fb-98afe7aa17a3">
 
+
 Exploratory Data Analysis (EDA)
 
 <img width="823" alt="EDA5" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/ea4afabd-89bf-4952-973b-1b51daf9973c">
 
+
 Exploratory Data Analysis (EDA)
 
 <img width="815" alt="EDA6" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/951eeb30-87dd-4fc6-8e8f-a01033154df5">
+
 
 Models and Methodology
 
@@ -88,11 +94,15 @@ clusters.
 
 <img width="805" alt="Elbow Method" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/1bc2c1cc-7c54-4ca7-bfcb-b9ff42a6f543">
 
+
 <img width="819" alt="Silhouette Score Method" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/ec731e63-c038-4f4a-96c3-126603d6cc83">
+
 
 <img width="626" alt="Oats clustering" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/91189d58-c15d-489e-8cdc-84d799ab6317">
 
+
 <img width="745" alt="GIS-FinalResult" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/5fa4c491-ecb7-4beb-9c5b-460d966edd8b">
+
 
 Results and Conclusions
 
