@@ -15,6 +15,8 @@ Solution
 Recommendation of best areas using K-means clustering for 
 oat cultivation.
 
+<img width="524" alt="Canola" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/2669b50a-61ec-444c-a089-8ff6beb64432">
+
 * Source: https://www.seed.ab.ca/record-highs-across-most-crops-leaves-oats-behind/
 
      Data Collection
