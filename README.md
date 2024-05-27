@@ -35,32 +35,16 @@ Data Transformation
 ● Manitoba's database column names have been
 standardized
 
-Previous Name Current Name
-Risk Area / RM RM
-ARGENTINE CANOLA Canola
-CANARYSEED Canary Seed
-DURUM WHEAT Durum Wheat
-LENTILS Lentils
-OATS Oats
-RED SPRING WHEAT Spring Wheat
-WHITE PEA BEANS Peas
-
-● Some Saskatchewan’s database columns are
-dropped
-
-Dropped
-Winter Wheat
-Mustard
-Sunflowers
-Fall Rye
-Spring Rye
-Tame Hay
-Flax
-Chickpeas
+<img width="233" alt="Manitoba - Data Transformation" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/602c254f-d546-4c4e-9ed9-7b9a228c888e">
 
 ● Data frame was pivoted to present crops
 separated into columns.
 ● Was done crop conversion in MB tonnes to bushel
+
+● Some Saskatchewan’s database columns are
+dropped
+
+<img width="115" alt="Saskatchewan - Data transformation" src="https://github.com/RobertoTabosa/AgriProject/assets/84072431/a92c9ce0-cc95-49e2-b1c1-32b95045e502">
 
 ● Was done crop conversion in pounds to bushels
 ● Created Province column for both dataframes
